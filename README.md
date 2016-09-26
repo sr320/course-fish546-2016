@@ -18,7 +18,7 @@ The code repository is where example analyses will be provided. :thumbsup:
 
 `.gitignore` - List of files that are in local repo but not in GitHub because of file size limits
 
-`notebooks/` - Directory where IPython notebooks live.   
+`jupyter-nbs/` - Directory where IPython notebooks live.   
 
 
 `data/` - Raw data including fasta files (in `data/fa/`)   
