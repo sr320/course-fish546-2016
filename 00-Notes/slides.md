@@ -36,14 +36,14 @@ Steven Roberts
 
 ---
 
-class: center, middle
-
+class: center
 
 # Important 
 
 --
 
-- You ask questions (_submit issues_)
+- ## You ask questions (_submit issues_)
+- ## Come prepared (Read ahead `cat | >`)
 
 --
 
