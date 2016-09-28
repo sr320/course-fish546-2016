@@ -34,8 +34,8 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 --
 
-- Approaches to deal with large data 
-- (_most of this is just moving files_)
+- Approaches to deal with large data     
+    (_most of this is just moving files_)
 
 --
 
