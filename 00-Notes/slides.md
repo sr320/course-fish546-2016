@@ -92,14 +92,19 @@ Here are my notes
 ### Class time
 
 
-# .center[Ldt-aligned text]
+# .center[20% Showing : 80% Doing]
+
+
+- I will post use a partially flipped model
+
+- Likewise you will be expected to make some progress outside of class
 
 
 ---
 
 
 
-### Why is reproducibility important?
+### Lets Review some Biology
 
 ---
 
