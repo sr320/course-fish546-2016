@@ -5,8 +5,6 @@ class: center, middle
 
 https://github.com/sr320/course-fish546-2016/wiki
 
-##genefish.info
-
 ---
 
 ### What is this class?
