@@ -39,14 +39,16 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 --
 
-- 
-
+- Publish data analyses products
 
 
 
 ---
 
-![pic](http://eagle.fish.washington.edu/cnidarian/skitch/BioInfo_Intro_pdf__page_2_of_22__1D9C5137.png)
+### Today
+
+
+
 
 
 
