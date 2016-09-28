@@ -25,10 +25,7 @@ Steven Roberts
 
 - Emphasis on open and reproducible science
 
-
---
-
-- Just do it. Dive right in. 
+ 
 
 --
 
@@ -109,7 +106,7 @@ Here are my notes
 ### .center[20% Me "lecturing" : 80% You "doing"]
 
 
-- I will post use a partially flipped model
+- I will use a partially flipped model
 
 - Likewise you will be expected to make some progress outside of class
 
@@ -118,7 +115,7 @@ Here are my notes
 
 
 
-### Lets Review some Biology
+### Lets Review some Biology!
 
 
 
