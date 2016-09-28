@@ -34,6 +34,21 @@ Steven Roberts
 
 - Collaborative based education model
 
+---
+
+class: center, middle
+
+
+# Important 
+
+--
+
+- You ask questions (_submit issues_)
+
+--
+
+
+
 
 ---
 
@@ -55,6 +70,7 @@ Steven Roberts
 --
 
 - Publish data analyses products
+
 
 
 
