@@ -71,6 +71,17 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 ---
 
+### Textbook
+
+![book](http://eagle.fish.washington.edu/cnidarian/skitch/Bioinformatics_Data_Skills__Reproducible_and_Robust_Research_with_Open_Source_Tools__Vince_Buffalo__9781449367374__Amazon_com__Books_1D9C69E4.png)
+
+
+![toc](http://eagle.fish.washington.edu/cnidarian/skitch/Bioinformatics_Data_Skills_pdf__page_7_of_538__1D9C6A89.png)
+
+
+
+
+
 
 ### Why is reproducibility important?
 
