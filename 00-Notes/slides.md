@@ -91,7 +91,8 @@ Here are my notes
 
 ### Class time
 
-.center[Ldt-aligned text]
+
+# .center[Ldt-aligned text]
 
 
 ---
