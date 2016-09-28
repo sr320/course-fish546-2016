@@ -23,6 +23,7 @@ image
 
 ---
 
+![doc](http://eagle.fish.washington.edu/cnidarian/skitch/National_Science_Foundation_Research_Traineeship_Program__NRT____NSF_-_National_Science_Foundation_1D9C524A.png)
 
 
 ### Why is reproducibility important?
