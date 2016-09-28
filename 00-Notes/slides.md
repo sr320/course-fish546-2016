@@ -25,6 +25,10 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 - Just do it. Dive right in. 
 
+--
+
+- Collaborative based education model
+
 
 ---
 
@@ -65,6 +69,11 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 - Getting prepared for success
 
+--
+
+- GitHub
+
+
 ??? 
 
 Here are my notes
@@ -92,7 +101,7 @@ Here are my notes
 ### Class time
 
 
-# .center[20% Showing : 80% Doing]
+### .center[20% Me "lecturing" : 80% You "doing"]
 
 
 - I will post use a partially flipped model
@@ -106,24 +115,8 @@ Here are my notes
 
 ### Lets Review some Biology
 
----
 
-### Core Skills 
 
---
 
-- Automation
-
---
-
-- Provenance tracking
-
---
-
-- Availability of code and data
-
---
-
-- Open access to publication
 
 ---
