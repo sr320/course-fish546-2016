@@ -47,14 +47,29 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 ### Today
 
+--
+
+- Biology
+
+--
+
+- Course Framework / Logistics
+
+--
+
+- Getting prepared for success
 
 
 
 
 
 ---
+### Course Highlights
 
-![doc](http://eagle.fish.washington.edu/cnidarian/skitch/National_Science_Foundation_Research_Traineeship_Program__NRT____NSF_-_National_Science_Foundation_1D9C524A.png)
+![wiki](http://eagle.fish.washington.edu/cnidarian/skitch/Home_·_sr320_course-fish546-2016_Wiki_1D9C6972.png)
+
+
+---
 
 
 ### Why is reproducibility important?
