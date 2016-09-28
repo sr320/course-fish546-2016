@@ -18,9 +18,28 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 --
 
-- Emphasis on open and reproducibile
+- Emphasis on open and reproducible science
 
 ---
+
+### What should you learn?
+
+--
+
+- How to operate at the command-line
+
+--
+
+- How to install and run common bioinformatic software
+
+--
+
+- Approaches to deal with large data 
+- (_most of this is just moving files_)
+
+--
+
+- 
 
 
 
