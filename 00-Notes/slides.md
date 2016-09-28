@@ -91,10 +91,10 @@ Here are my notes
 
 ### Class time
 
-.left[Left-aligned text]
+.center[Ldt-aligned text]
 
 
-
+---
 
 
 
