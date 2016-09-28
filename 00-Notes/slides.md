@@ -3,17 +3,27 @@ class: center, middle
 # FISH 546 
 ## Bioinformatics
 
+https://github.com/sr320/course-fish546-2016/wiki
 
 ---
 
-### What is reproducibility?
+### What is this class?
+--
+
+- Focused on large, sequence based datasets
+
+--
+
+- Student/Project Driven (Hands On)
+
+--
+
+- Emphasis on open and reproducibile
 
 ---
 
-image
 
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/BioInfo_Intro_pdf__page_2_of_22__1D9C5137.png" alt="BioInfo_Intro_pdf__page_2_of_22__1D9C5137.png"/>
 
 ---
 
@@ -30,7 +40,7 @@ image
 
 ---
 
-### The elements of reproducible open research
+### Core Skills 
 
 --
 
