@@ -20,6 +20,12 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 - Emphasis on open and reproducible science
 
+
+--
+
+- Just do it. Dive right in. 
+
+
 ---
 
 ### What should you learn?
@@ -59,7 +65,9 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 - Getting prepared for success
 
+??? 
 
+Here are my notes
 
 
 
@@ -77,6 +85,13 @@ https://github.com/sr320/course-fish546-2016/wiki
 
 
 ![toc](http://eagle.fish.washington.edu/cnidarian/skitch/Bioinformatics_Data_Skills_pdf__page_7_of_538__1D9C6A89.png)
+
+
+---
+
+### Class time
+
+.left[Left-aligned text]
 
 
 
