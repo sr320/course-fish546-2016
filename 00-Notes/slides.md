@@ -29,12 +29,17 @@ Steven Roberts
 --
 
 - Collaborative based education model
-- Variable backgrounds of students
+Variable backgrounds of students
 
 
 --
 
 - Mash-up of Seminar, Workshop, Online Course...
+
+--
+
+- Very Active Learning
+
 
 ---
 
@@ -125,8 +130,7 @@ class: center
 - I will use a partially flipped model
 
 - Likewise you will be expected to make progress outside of class.
-
-
+- 
 
 ---
 
