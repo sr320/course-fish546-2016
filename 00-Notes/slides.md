@@ -95,12 +95,6 @@ class: center
 
 - GitHub
 
---
-
-??? 
-
-Here are my notes
-
 
 
 
