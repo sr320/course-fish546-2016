@@ -30,6 +30,11 @@ Steven Roberts
 
 - Collaborative based education model
 
+
+--
+
+- Mash-up of Seminar, Workshop, Online Course...
+
 ---
 
 class: center
@@ -64,7 +69,7 @@ class: center
 
 --
 
-- Publish data analyses products
+- Publish reproducible data analyses products
 
 
 
