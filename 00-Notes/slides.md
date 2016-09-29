@@ -29,6 +29,7 @@ Steven Roberts
 --
 
 - Collaborative based education model
+- Variable backgrounds of students
 
 
 --
