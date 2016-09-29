@@ -1,6 +1,7 @@
 #Setting up Bioinformatic Environment in Windows
 
-I installed Windows 7 (64-bit) to mimic CICSE environment for teaching. I will attempt to set up environment in a way that will work for the course.
+I installed Windows 7 (64-bit) to mimic this  environment for teaching. 
+
 
 ##Git for Windows
 Based on Software Carpentry recommendations will ...
