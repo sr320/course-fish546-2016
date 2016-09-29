@@ -1,7 +1,7 @@
 class: center, middle
 
 # FISH 546 
-## Bioinformatics
+## Bioinformatics for Environmental Sciences
 
 https://github.com/sr320/course-fish546-2016/wiki
 
@@ -25,11 +25,24 @@ Steven Roberts
 
 - Emphasis on open and reproducible science
 
- 
 
 --
 
 - Collaborative based education model
+
+---
+
+class: center
+
+# Important 
+
+--
+
+- ## You ask questions (_submit issues_)
+- ## Come prepared (Read ahead `cat | >`)
+
+
+
 
 
 ---
@@ -52,6 +65,7 @@ Steven Roberts
 --
 
 - Publish data analyses products
+
 
 
 
@@ -103,12 +117,13 @@ Here are my notes
 ### Class time
 
 
-### .center[20% Me "lecturing" : 80% You "doing"]
+### .center[20% ~Me "lecturing" : 80% You "doing"]
 
 
 - I will use a partially flipped model
 
-- Likewise you will be expected to make some progress outside of class
+- Likewise you will be expected to make some progress outside of class.
+
 
 
 ---
