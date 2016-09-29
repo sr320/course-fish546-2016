@@ -143,24 +143,31 @@ class: center
 ### End of this week
 
 --
+
 - GitHub Account, Install Local GitHub client
 
 --
+
 - Bash Installed (able to perform tutorial Tuesday)
 
 -- 
+
 - Quiz
 
 --
+
 - Read (for this week and _next_)
 
 --
+
 - Become familiar with Markdown
 
 --
+
 - Install good Text Editor
 
 -- 
+
 - Install good Markdown Editor     
 (online options available)
 
