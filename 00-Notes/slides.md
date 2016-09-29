@@ -124,7 +124,7 @@ class: center
 
 - I will use a partially flipped model
 
-- Likewise you will be expected to make some progress outside of class.
+- Likewise you will be expected to make progress outside of class.
 
 
 
@@ -158,4 +158,4 @@ class: center
 - Install good Markdown Editor     
 (online options available)
 
---
+---
