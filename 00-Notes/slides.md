@@ -150,7 +150,7 @@ class: center
 
 - Bash Installed (able to perform tutorial Tuesday)
 
--- 
+--
 
 - Quiz
 
@@ -166,7 +166,7 @@ class: center
 
 - Install good Text Editor
 
--- 
+--
 
 - Install good Markdown Editor     
 (online options available)
