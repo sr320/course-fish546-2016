@@ -40,6 +40,10 @@ Variable backgrounds of students
 
 - Very Active Learning
 
+--
+
+- _Problem Solving_
+
 
 ---
 
@@ -123,8 +127,6 @@ class: center
 
 ### Class time
 
-
-### .center[20% ~Me "lecturing" : 80% You "doing"]
 
 
 - I will use a partially flipped model
