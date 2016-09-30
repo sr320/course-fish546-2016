@@ -11,28 +11,13 @@ Steven Roberts
 @sr320
 
 ---
+class: center, middle
+# Unix Shell
 
-### What is this class?
---
-
-- Focused on large, sequence based datasets
-
---
-
-- Student/Project Driven (Hands On)
-
---
-
-- Emphasis on open and reproducible science
-
-
---
-
-- Collaborative based education model
-
-
---
-
-- Mash-up of Seminar, Workshop, Online Course...
+Everyone good with the tutorial?
 
 ---
+## Setting up and Managing a Project
+
+- Everyone will have a repo for the course
+- ths
