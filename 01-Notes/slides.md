@@ -17,8 +17,11 @@ class: center, middle
 Everyone good with the tutorial?
 
 ---
+class: middle
+
+
 ## Setting up and Managing a Project
 
-- Everyone will have a repo for the course
+- ### Everyone will have a repo for the course
 
-- This will include the files in a well thought out directory structure that also lives on your local machine.
+- ### This will include the files in a well thought out directory structure that also lives on your local machine.
