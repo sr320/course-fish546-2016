@@ -34,5 +34,7 @@ at the command-line
 
 ---
 
-![cast](../img/cast.gif)
+![cast](../img/setting-up-project.gif)
+
+---
 
