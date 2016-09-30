@@ -25,3 +25,14 @@ class: middle
 - ### Everyone will have a repo for the course
 
 - ### This will include the files in a well thought out directory structure that also lives on your local machine.
+
+---
+class: middle
+## On my computer
+
+at the command-line
+
+---
+
+![cast](../img/cas.gif)
+
