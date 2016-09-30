@@ -37,4 +37,14 @@ at the command-line
 ![cast](../img/setting-up-project.gif)
 
 ---
+class: middle
+add `readme.md`
+---
+
+![cast](../img/readme.gif)
+
+---
+![cast](../img/github-add.gif)
+
+---
 
