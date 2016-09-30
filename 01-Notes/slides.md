@@ -20,4 +20,5 @@ Everyone good with the tutorial?
 ## Setting up and Managing a Project
 
 - Everyone will have a repo for the course
-- ths
+
+- This will include the files in a well thought out directory structure that also lives on your local machine.
