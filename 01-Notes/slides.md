@@ -84,11 +84,9 @@ class: center, middle
  
  # _README_ files
  
- 
  ---
  
- 
- >>Ultimately, you’ll arrive at your own project organization system that works for you; the take-home point is: leverage directories to help stay organized.
+>Ultimately, you’ll arrive at your own project organization system that works for you; the take-home point is: leverage directories to help stay organized.
  
  ---
  
