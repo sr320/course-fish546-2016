@@ -11,6 +11,15 @@ Steven Roberts
 @sr320
 
 ---
+# Today
+
+- Make sure everyone understands/loves BASH
+- GitHub
+- Setting up a project
+- Jupyter
+- Proteomics presentation
+
+
 class: center, middle
 # Unix Shell
 
