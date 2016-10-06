@@ -17,6 +17,31 @@ class: center, middle
 Everyone good with the tutorial?
 
 ---
+class: center, middle
+# What is the shell and why do you love it?
+
+---
+
+class: center, middle
+# Where so you see the most value?
+
+---
+class: center, middle
+# Why do you fear it, not like it?
+
+
+---
+class: center, middle
+# How should you treat your `data`?
+
+
+---
+class: center, middle
+# What is the Golden Rule of Bioinformatics?
+
+
+
+---
 class: middle
 
 
@@ -53,6 +78,14 @@ add `readme.md`
 ![cast](../img/github-add.gif)
 
 ---
+## You could also start in GitHub, then clone
+
+
+![cast](../img/github-init.gif)
+
+
+
+
 ## Project Documentation
 
 -  Document your methods and workflows
@@ -82,13 +115,21 @@ add `readme.md`
 
 class: center, middle
  
- # _README_ files
+# _README_ files
  
+
 ---
- 
-new
+class: center 
+
+>Ultimately, you’ll arrive at your own project organization system that works for you; the take-home point is: leverage directories to help stay organized.
  
 ---
 
-Ultimately, you’ll arrive at your own project organization system that works for you; the take-home point is: leverage directories to help stay organized.
+## Lets set up some projects
+
+
+---
+
+class: center, middle
  
+ # _README_ files
