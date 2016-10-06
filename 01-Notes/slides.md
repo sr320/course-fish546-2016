@@ -19,6 +19,16 @@ Steven Roberts
 - Jupyter
 - Proteomics presentation
 
+---
+
+
+# Housekeeping / Logistics
+
+- Access
+- Notifications
+
+
+
 
 class: center, middle
 # Unix Shell
@@ -42,6 +52,18 @@ class: center, middle
 ---
 class: center, middle
 # How should you treat your `data`?
+
+
+---
+
+# Questions
+
+- Streams
+- Redirectingxs
+- Redirecting Standar Error
+- Pipes
+
+
 
 
 ---
@@ -138,4 +160,19 @@ class: center
 
 
 ---
+
+## Jupyter
+
+
+
+---
+
+# Things to do 
+
+- Quiz
+- Project Progress
+- Reading 
+- Make sure you are getting notificatons
+
+--
 
