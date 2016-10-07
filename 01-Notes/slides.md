@@ -116,6 +116,7 @@ add `readme.md`
 ![cast](../img/github-init.gif)
 
 
+---
 
 
 ## Project Documentation
@@ -151,7 +152,7 @@ class: center, middle
  
 
 ---
-class: center 
+class: center, middle 
 
 >Ultimately, you’ll arrive at your own project organization system that works for you; the take-home point is: leverage directories to help stay organized.
  
@@ -175,5 +176,5 @@ class: center
 - Reading 
 - Make sure you are getting notificatons
 
---
+---
 
