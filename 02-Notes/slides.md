@@ -15,7 +15,7 @@ class: center, middle
 # Jupyter & Annotation
 
 
---- 
+---
 # New Format?
 
 - General Announcements
