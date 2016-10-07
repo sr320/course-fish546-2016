@@ -20,7 +20,12 @@ class: center, middle
 
 - General Announcements
 - last class / week `fu`
-- 
+- Instruction module 
+- Work on projects
+
+---
+
+
 
  
  
