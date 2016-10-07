@@ -60,7 +60,7 @@ class: center, middle
 # Questions
 
 - Streams
-- Redirectingxs
+- Redirecting
 - Redirecting Standar Error
 - Pipes
 
