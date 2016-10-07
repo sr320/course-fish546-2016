@@ -13,11 +13,8 @@ Steven Roberts
 ---
 class: center, middle
 # Jupyter & Annotation
-
-
 ---
 # New Format?
-
 - General Announcements
 - last class / week `fu`
 - Instruction module 
