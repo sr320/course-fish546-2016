@@ -16,5 +16,11 @@ class: center, middle
 
 
 --- 
+# New Format?
+
+- General Announcements
+- last class / week `fu`
+- 
+
  
  
