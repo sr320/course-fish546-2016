@@ -28,8 +28,17 @@ class: center, middle
 `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
 
 >I just got a 'no such file or dir exists error'. I didn't try too hard though, so will make another attempt
+---
+
+>>tutorial was really mac based so it was a little difficult to get through on the windows operating system
+---
+
+class: center, middle
+
+In *Jupyter* you need to add `!` before the command.
 
 ---
+# Unix 
 
 
 
@@ -63,6 +72,14 @@ class: center, middle
 
 ---
 
+class: center, middle
+
+#Read 
+
+---
+## Instruction module
+
+Blast
 
  
  
