@@ -53,7 +53,7 @@ last week reading
 - Redirecting Standard Error    
 `ls -l tb1.fasta leafy1.fasta > listing.txt 2> listing.stderr`
 
--- 
+--
 
 
 - Pipes    
