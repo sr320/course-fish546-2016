@@ -38,7 +38,33 @@ class: center, middle
 In *Jupyter* you need to add `!` before the command.
 
 ---
-# Unix 
+# Unix Review
+last week reading
+
+- Streams (not holding in memory)
+
+--
+
+- Redirecting Standard Out to File
+`cat tb1-protein.fasta tga1-protein.fasta > zea-proteins.fasta`
+
+--
+
+- Redirecting Standard Error
+`ls -l tb1.fasta leafy1.fasta > listing.txt 2> listing.stderr`
+
+
+-- 
+
+
+- Pipes
+```
+grep -v "^>" tb1.fasta | \ 
+grep --color -i "[^ATCG]"
+    CCCCAAAGACGGACCAATCCAGCAGCTTCTACTGCTAYCCATGCTCCCCTCCCTTCGCCGCCGCCGACGC
+```    
+    
+    
 
 
 
