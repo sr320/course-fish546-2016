@@ -45,19 +45,18 @@ last week reading
 
 --
 
-- Redirecting Standard Out to File
+- Redirecting Standard Out to File     
 `cat tb1-protein.fasta tga1-protein.fasta > zea-proteins.fasta`
 
 --
 
-- Redirecting Standard Error
+- Redirecting Standard Error    
 `ls -l tb1.fasta leafy1.fasta > listing.txt 2> listing.stderr`
-
 
 -- 
 
 
-- Pipes
+- Pipes    
 ```
 grep -v "^>" tb1.fasta | \ 
 grep --color -i "[^ATCG]"
