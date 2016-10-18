@@ -11,7 +11,7 @@ Steven Roberts
 @sr320
 
 ---
-class: center
+class: center, middle
 
 
 # Get Organized
@@ -24,7 +24,7 @@ class: center
 class: center, middle
 # Working with Sequence Data & Projects
 ---
-need cpus
+#Power    
 ![cpus](../img/cpu.gif)
 ---
 
