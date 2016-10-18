@@ -11,6 +11,14 @@ Steven Roberts
 @sr320
 
 ---
+class: center
+
+
+# Get Organized
+![Getorganised](https://media.giphy.com/media/BW5OaeGBHVBf2/giphy.gif)
+
+
+---
 ![ce](http://sd.keepcalm-o-matic.co.uk/i/commit-early-and-commit-often.png)
 ---
 class: center, middle
