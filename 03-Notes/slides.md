@@ -17,4 +17,4 @@ class: center, middle
 # Working with Sequence Data & Projects
 ---
 Owl
-![owlgig](https://github.com/sr320/course-fish546-2016/blob/master/img/owl-data-download.gif)
+![owlgig](../img/owl-data-download.gif)
