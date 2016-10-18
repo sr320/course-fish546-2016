@@ -11,6 +11,8 @@ Steven Roberts
 @sr320
 
 ---
+![ce](http://sd.keepcalm-o-matic.co.uk/i/commit-early-and-commit-often.png)
+---
 class: center, middle
 # Working with Sequence Data & Projects
 ---
