@@ -16,6 +16,10 @@ Steven Roberts
 class: center, middle
 # Working with Sequence Data & Projects
 ---
+need cpus
+![cpus](../img/cpu.gif)
+---
+
 Owl
 ![owlgig](../img/owl-data-download.gif)
 
