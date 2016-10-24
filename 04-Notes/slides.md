@@ -14,7 +14,7 @@ Steven Roberts
 class: center, middle
 
 
-RNA-Seq
+# RNA-Seq
 
 
 ---
@@ -22,8 +22,17 @@ RNA-Seq
 ## Transcriptome Assembly
 
 - All the genes (expressed)!
+
+--
+
 - Necessary for de novo (no genome) expression analysis
+
+--
+
 - Memory intensive
+
+--
+
 - Primary software - Trinity
 
 
