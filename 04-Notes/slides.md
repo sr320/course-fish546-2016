@@ -131,7 +131,12 @@ Transrate analyses a transcriptome assembly in three key ways:
 
 
 
+---
+### @hputnam example
 
+<https://github.com/hputnam/Montipora_Spawn_Timing/blob/master/notebooks/Mcap_Spawn_analysis_script.md> 
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Montipora_Spawn_Timing_Mcap_Spawn_analysis_script_md_at_master_·_hputnam_Montipora_Spawn_Timing_1DBEC543.png" alt="Montipora_Spawn_Timing_Mcap_Spawn_analysis_script_md_at_master_·_hputnam_Montipora_Spawn_Timing_1DBEC543.png"/>
 
 ---
 
