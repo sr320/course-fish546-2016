@@ -2,3 +2,15 @@
 jupyter-nbs/analyses/wd-091416/query.fa
 
 .DS_Store
+
+data/uniprot_sprot_r2016-09.fasta
+
+data/contigs.fasta.transdecoder.pep
+
+data/uniprot_sprot_r2016-09.phr
+
+data/uniprot_sprot_r2016-09.pin
+
+data/uniprot_sprot_r2016-09.psq
+
+jupyter-nbs/contigs.fasta.transdecoder.pep.gz
