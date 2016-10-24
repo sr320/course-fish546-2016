@@ -113,10 +113,16 @@ Transrate analyses a transcriptome assembly in three key ways:
 
 
 
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_10_24_16__8_19_AM_1DBE5DFC.png" alt="Screenshot_10_24_16__8_19_AM_1DBE5DFC.png"/>
+
+
 
 
 
 ---
+
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_10_24_16__8_12_AM_1DBE5C48.png" alt="Screenshot_10_24_16__8_12_AM_1DBE5C48.png"/>
 
 ### Example running DESeq2 
