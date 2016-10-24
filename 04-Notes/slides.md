@@ -106,6 +106,46 @@ Transrate analyses a transcriptome assembly in three key ways:
 
 ---
 
+## Basic
+
+
+### Get Counts - do stats
+
+
+
+
+
+
+---
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_10_24_16__8_12_AM_1DBE5C48.png" alt="Screenshot_10_24_16__8_12_AM_1DBE5C48.png"/>
+
+### Example running DESeq2 
+
+<https://github.com/sr320/eimd-sswd/blob/master/eimd_analysis.ipynb>
+
+
+
+
+
+--- 
+# With Genome...
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/TopHat_1DBE5B6E.png" alt="TopHat_1DBE5B6E.png"/>
+
+
+---
+
+## Example
+
+Within Cyverse
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_10_24_16__8_10_AM_1DBE5C07.png" alt="Screenshot_10_24_16__8_10_AM_1DBE5C07.png"/>
+
+<https://github.com/sr320/course-fish546-2015/blob/master/notebooks/Sam_RNA-seq.ipynb>
+
+---
+
+
 
 
 
