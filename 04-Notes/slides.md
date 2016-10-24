@@ -128,6 +128,7 @@ Transrate analyses a transcriptome assembly in three key ways:
 
 
 --- 
+
 # With Genome...
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/TopHat_1DBE5B6E.png" alt="TopHat_1DBE5B6E.png"/>
