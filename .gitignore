@@ -18,3 +18,5 @@ jupyter-nbs/contigs.fasta.transdecoder.pep.gz
 data/OlyO_v6_transcriptome.fa
 
 data/OlyO_v6_transcriptome
+
+jupyter-nbs/.DS_Store
