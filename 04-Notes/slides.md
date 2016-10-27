@@ -175,7 +175,62 @@ class: center, middle
 ## Wait I still only have a bunch of Uniprot codes!!
 
 ---
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/eimd-sswd_eimd_analysis_ipynb_at_master_·_sr320_eimd-sswd_1DC23A83.png" alt="eimd-sswd_eimd_analysis_ipynb_at_master_·_sr320_eimd-sswd_1DC23A83.png"/>
 
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/001_1-Downloading-databases_1DC23B63.png" alt="001_1-Downloading-databases_1DC23B63.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/001_1-Downloading-databases_1DC23B63.png" alt="001_1-Downloading-databases_1DC23B63.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/001_1-Downloading-databases_1DC23B8E.png" alt="001_1-Downloading-databases_1DC23B8E.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/001_1-Downloading-databases_1DC23BB7.png" alt="001_1-Downloading-databases_1DC23BB7.png"/>
+
+---
+
+### I want that!
+
+```
+http://www.uniprot.org/uniprot/?query=&fil=reviewed%3Ayes&columns=id%2Centry%20name%2Creviewed%2Cprotein%20names%2Cgenes%2Corganism%2Clength%2Cgo(biological%20process)%2Cgo-id%2Ccomment(PATHWAY)%2Cdatabase(UniPathway)%2Cdatabase(CDD)%2Cdatabase(Pfam)
+```
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/001_1-Downloading-databases_1DC23BF1.png" alt="001_1-Downloading-databases_1DC23BF1.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/001_1-Downloading-databases_1DC23C18.png" alt="001_1-Downloading-databases_1DC23C18.png"/>
+
+---
+
+
+class: center, middle
+
+## I can see where I am going but how do I get there...
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/SQLShare_1DC23CC6.png" alt="SQLShare_1DC23CC6.png"/>
+
+---
+
+![upload](https://drops.azureedge.net/drops/files/acc_524195/tz8q?rscd=inline%3B%20filename%3DScreen%2520Capture%2520on%25202016-10-27%2520at%252006-50-14.gif&rsct=image%2Fgif&se=2016-10-27T14%3A20%3A29Z&sig=og3tX%2BjsmBvL7nL1QuQSgN5oYoi%2BRC57CfM12nmaMmM%3D&sp=r&sr=b&st=2016-10-27T13%3A20%3A29Z&sv=2013-08-15)
+
+---
+Could upload anything....
+
+![rasta](https://drops.azureedge.net/drops/files/acc_524195/QgDs?rscd=inline%3B%20filename%3DScreen%2520Capture%2520on%25202016-10-27%2520at%252006-48-58.gif&rsct=image%2Fgif&se=2016-10-27T14%3A21%3A54Z&sig=dMyzNjr9gmZol9yPpialmpJsvg6HsRYKyoq2UoFqvD8%3D&sp=r&sr=b&st=2016-10-27T13%3A21%3A54Z&sv=2013-08-15)
+
+---
 
 
 
