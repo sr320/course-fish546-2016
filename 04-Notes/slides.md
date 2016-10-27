@@ -157,6 +157,17 @@ Within Cyverse
 
 ---
 
+class: center, middle
+
+
+# Understanding Meaning
+
+---
+
+
+
+
+
 
 
 
