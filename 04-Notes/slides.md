@@ -164,8 +164,17 @@ class: center, middle
 
 ---
 
+class: center, middle
 
+You have a list of _important_ genes. Now what?
 
+---
+
+class: center, middle
+
+## Wait I still only have a bunch of Uniprot codes!!
+
+---
 
 
 
