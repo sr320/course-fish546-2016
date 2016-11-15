@@ -16,9 +16,9 @@ Steven Roberts
 
 - Projects?
 
-- Last week slides, papers
+- Quiz
 
-- 
+- Pretty Picture
 
 
 
@@ -41,11 +41,9 @@ class: center, middle
 
 ---
 
-##  TUESDAY SLIDES
+# IGV
 
-<https://github.com/sr320/course-fish546-2016/blob/master/06-Notes/2016-FISH546-Methylation.pdf>
-
-
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Home___Integrative_Genomics_Viewer_1DDA9867.png" alt="Home___Integrative_Genomics_Viewer_1DDA9867.png"/>
 
 
 
