@@ -14,11 +14,11 @@ Steven Roberts
 
 ## Reminders
 
-- Projects?
+- Projects- Final Product
 
 - Quiz
 
-- Pretty Picture
+- 
 
 
 
@@ -36,22 +36,43 @@ class: center, middle
 class: center, middle
 
 
-# Genome Browser, Alignment, Coordinate Systems (`bedtools`)
+# SNPs
 
 
 ---
 
-# IGV
+# Fun with Transcriptomes!
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Home___Integrative_Genomics_Viewer_1DDA9867.png" alt="Home___Integrative_Genomics_Viewer_1DDA9867.png"/>
+- A few papers
+- Case study
 
 
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDF27.png" alt="onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDF27.png"/>
 
 ---
 
-# Install
-
-![cpg](https://github.com/sr320/course-fish546-2016/blob/master/img/igv-install.gif?raw=true)
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDF55.png" alt="onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDF55.png"/>
 
 ---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDF71.png" alt="onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDF71.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDFA8.png" alt="onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDFA8.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDFE6.png" alt="onlinelibrary_wiley_com_doi_10_1111_j_1755-0998_2010_02936_x_epdf_1DECDFE6.png"/>
+
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/file_1DECE066.png" alt="file_1DECE066.png"/>
+
+---
+
+
 
