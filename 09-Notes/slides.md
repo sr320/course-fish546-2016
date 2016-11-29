@@ -129,7 +129,7 @@ Supplemental File
 
 SNPs
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/PLOS_ONE__Development_of_Genomic_Resources_for_a_thraustochytrid_Pathogen_and_Investigation_of_Temperature_Influences_on_Gene_Expression_1DECE628.png" alt="PLOS_ONE__Development_of_Genomic_Resources_for_a_thraustochytrid_Pathogen_and_Investigation_of_Temperature_Influences_on_Gene_Expression_1DECE628.png" width ="50%"/>
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/PLOS_ONE__Development_of_Genomic_Resources_for_a_thraustochytrid_Pathogen_and_Investigation_of_Temperature_Influences_on_Gene_Expression_1DECE628.png" alt="PLOS_ONE__Development_of_Genomic_Resources_for_a_thraustochytrid_Pathogen_and_Investigation_of_Temperature_Influences_on_Gene_Expression_1DECE628.png" width ="70%"/>
 
 ---
 
