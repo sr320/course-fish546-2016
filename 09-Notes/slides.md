@@ -41,6 +41,23 @@ class: center, middle
 
 ---
 
+
+class: center, middle
+
+
+# Chapter 12: Bioinformatics Shell Scripting, Writing Pipelines
+
+---
+
+class: center, middle
+
+"I’ve waited until the penultimate chapter this book to share a regrettable fact: everyday bioinformatics work often involves a great deal of tedious data processing. "
+
+
+---
+
+
+
 # Fun with Transcriptomes!
 
 - A few papers
